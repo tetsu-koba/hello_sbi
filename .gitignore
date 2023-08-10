@@ -1,0 +1,4 @@
+*.o
+*~
+hello_sbi
+hello_sbi.bin
